@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nauerm
-- 👀 I’m interested in web development, data science, optimization, machine learning, stochastic filtering, vavigation and tracking systems
+- 🤓 Control and Automation Engineer, embedded systems developer and a Master's student in Electrical Engineering
+- 👀 I’m interested in web development, data science, optimization, machine learning, stochastic filtering, navigation and tracking systems
 - 🌱 I’m currently learning front-end tools for data visualization
-- ✨ Check my page https://nauerm.github.io/ 
+- 💬 Check my page https://nauerm.github.io/ 
 
 <!---
 nauerm/nauerm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
